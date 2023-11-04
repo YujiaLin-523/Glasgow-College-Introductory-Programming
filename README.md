@@ -1,2 +1,2 @@
 # Simple-Programs
-Containing the programs I have developed since I began to learn C programming, this repository will certainly be a useful reference for beginners. 
+These programs are my practice when I was learning Weng Kai(from Zhejiang University)'s C Programming lessons. Hope that they can be useful to you!
